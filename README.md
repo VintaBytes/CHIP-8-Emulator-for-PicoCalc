@@ -1,14 +1,18 @@
 
-
 ## CHIP-8 Emulator for PicoCalc (RP2040)
 
 I’ve been working on a **native CHIP-8 emulator for the Clockwork PicoCalc**, written in C and running directly on the **PicoCalc hardware (RP2040)** 
+
+<center><img src="https://github.com/VintaBytes/CHIP-8-Emulator-for-PicoCalc/blob/main/screenshots/1.jpeg"> </center>
+
+
+
 
 The project started as an exploration of the PicoCalc SDK and gradually evolved into a fully playable emulator capable of running classic CHIP-8 programs such as **PONG**, **Tetris**, and similar early titles.
 
 This work is **built on top of Blair’s PicoCalc SDK**, which provided the foundation for graphics, input, storage, and overall system integration.
 
----
+
 
 ## What the emulator currently does
 
@@ -33,7 +37,7 @@ At its current stage, the emulator:
 
 Overall, classic CHIP-8 games are **fully playable** and responsive.
 
----
+
 
 ## Current state of the project
 
@@ -44,7 +48,7 @@ Overall, classic CHIP-8 games are **fully playable** and responsive.
 
 This is very much a **working, usable emulator**, not just a proof of concept — but there is still room to grow.
 
----
+
 
 ## Planned future work
 
@@ -59,7 +63,7 @@ Once development resumes, the next steps include:
 * Optional emulator “quirks” configuration for broader ROM compatibility
 * Code cleanup and documentation
 
----
+
 
 ## Development pause & GitHub release
 
