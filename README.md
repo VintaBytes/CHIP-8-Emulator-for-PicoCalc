@@ -1,6 +1,8 @@
 
 ## CHIP-8 Emulator for PicoCalc (RP2040)
 
+<span><img src="https://img.shields.io/badge/PicoCalc-MMBasic-5E81AC?style=for-the-badge"/></span>
+
 I’ve been working on a **native CHIP-8 emulator for the Clockwork PicoCalc**, written in C and running directly on the **PicoCalc hardware (RP2040)** 
 
 <center><img src="https://github.com/VintaBytes/CHIP-8-Emulator-for-PicoCalc/blob/main/screenshots/1.jpeg"> </center>
